@@ -52,7 +52,8 @@ This project automates job scraping, filtering, and personalized ranking based o
 1. Clone the repo
 2. Create a `.env` file and set your OpenAI API key
 3. Place your resume (PDF/DOCX) in the root folder
-4. Run:
+4. Add your filters and preferences in filters.json and user_prefs.json in the config folder
+5. Run:
 
 ```bash
 python web_scraper/main_scraper.py --resume_file Resume.pdf
