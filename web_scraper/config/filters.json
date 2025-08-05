@@ -1,0 +1,12 @@
+{
+  "site_name": ["indeed", "linkedin"],
+  "search_term": "financial analyst",
+  "location": ["London", "Manchester", "Birmingham", "Edinburgh", "Glasgow", "Leeds"],
+  "country_indeed": "United Kingdom",
+  "results_wanted": 100,
+  "hours_old": 75,
+  "job_type": "fulltime",
+
+  "title_keywords": ["analyst", "finance", "fp&a", "junior", "compliance", "compliance assistant", "compliance assistantance", "internship", "fixed term contract"],
+  "experience_keywords": ["graduate", "entry level", "junior", "trainee"]
+}
