@@ -1,5 +1,3 @@
-# smart-job-pipeline
-
 # JobRanker: AI-Powered Resume-Aware Job Scraper
 
 This project automates job scraping, filtering, and personalized ranking based on a user's resume and preferences. It leverages NLP and transformer models to match job listings to applicant profiles with high relevance.
