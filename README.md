@@ -63,6 +63,8 @@ The ouput will be stored in
 
 web_scraper/output/ranked_jobs_<applicant_name>.csv
 
+---
+
 👤 Multi-User Support
 
   - Each resume gets its own output file
@@ -71,6 +73,7 @@ web_scraper/output/ranked_jobs_<applicant_name>.csv
 
   - Ideal for teams or applicants applying in parallel
 
+---
 
 💡 Use Cases
 
@@ -80,6 +83,7 @@ web_scraper/output/ranked_jobs_<applicant_name>.csv
 
   - Educational project to demonstrate data engineering + NLP skills
 
+---
 
 ⚠️ Things to Watch Out For
 
@@ -91,10 +95,13 @@ web_scraper/output/ranked_jobs_<applicant_name>.csv
 
   - resume_dict must be parsed successfully for ranking to work
 
+---
 
 📄 License
 
- MIT License
+ - MIT License
+
+---
 
 ✨ Acknowledgements
 
