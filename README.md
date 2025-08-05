@@ -31,6 +31,7 @@ This project automates job scraping, filtering, and personalized ranking based o
 ---
 
 ## 📁 Folder Structure
+```
 ├── resume_dict/
 │ └── obtaining_res_dict.py # Extract structured info from resume
 ├── web_scraper/
@@ -43,7 +44,7 @@ This project automates job scraping, filtering, and personalized ranking based o
 │ └── storage/
 │ └── save_output.py # Saves to applicant-specific CSV
 
-
+```
 
 ---
 
