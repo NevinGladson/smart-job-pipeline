@@ -63,31 +63,31 @@ web_scraper/output/ranked_jobs_<applicant_name>.csv
 
 👤 Multi-User Support
 
-    Each resume gets its own output file
+  - Each resume gets its own output file
 
-    Scraped date column tracks job freshness
+  - Scraped date column tracks job freshness
 
-    Ideal for teams or applicants applying in parallel
+  - Ideal for teams or applicants applying in parallel
 
 
 💡 Use Cases
 
-    Resume-to-job scoring tool for applicants
+  - Resume-to-job scoring tool for applicants
 
-    Backend pipeline for job boards or career platforms
+  - Backend pipeline for job boards or career platforms
 
-    Educational project to demonstrate data engineering + NLP skills
+  - Educational project to demonstrate data engineering + NLP skills
 
 
 ⚠️ Things to Watch Out For
 
-    OpenAI API usage may incur cost
+  - OpenAI API usage may incur cost
 
-    JobSpy is occasionally blocked (e.g. Glassdoor); prefer Indeed
+  - JobSpy is occasionally blocked (e.g. Glassdoor); prefer Indeed
 
-    Transformer model requires a minimum of 1GB RAM
+  - Transformer model requires a minimum of 1GB RAM
 
-    resume_dict must be parsed successfully for ranking to work
+  - resume_dict must be parsed successfully for ranking to work
 
 
 📄 License
@@ -96,8 +96,8 @@ web_scraper/output/ranked_jobs_<applicant_name>.csv
 
 ✨ Acknowledgements
 
-    JobSpy
+  - JobSpy
 
-    Sentence-Transformers
+  - Sentence-Transformers
 
-    OpenAI
+  - OpenAI
