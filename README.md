@@ -85,7 +85,7 @@ web_scraper/output/ranked_jobs_<applicant_name>.csv
 
 ⚠️ Things to Watch Out For
 
-  - OpenAI API usage may incur cost
+  - Require an OpenAI API key, whose usage may incur cost
 
   - JobSpy is occasionally blocked (e.g. Glassdoor); prefer Indeed
 
